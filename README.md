@@ -30,15 +30,15 @@ SwiftDoc.Ug aims to provide a solution that is efficient, cost-effective, qualit
 * Auth0
 
 ## Project Management
-* [Trello(https://trello.com/invite/smoothdoc/ATTI974eda886fff6dea7afbc70cdd1125059E471E27)]
+* Trello (https://trello.com/invite/smoothdoc/ATTI974eda886fff6dea7afbc70cdd1125059E471E27)
 
 ## Deployment
-* [Vercel(https://swiftdocug.vercel.app/)]
-* [Netlify(https://swiftdocug.netlify.app/)]
+* Vercel (https://swiftdocug.vercel.app/)
+* Netlify (https://swiftdocug.netlify.app/)
 
 ## Installation
 To install and run SWIFTDOC.Ug locally, follow these steps:
-1. Clone the repository from GitHub using [Git clone(https://github.com/Samuel-othieno/SWIFTDOCUG.git)]
+1. Clone the repository from GitHub using Git clone (https://github.com/Samuel-othieno/SWIFTDOCUG.git)
 2. Navigate to the project directory using cd SWIFTDOC
 3. Install the dependencies using npm install
 4. Start the development server using npm start
@@ -50,7 +50,7 @@ To install and run SWIFTDOC.Ug locally, follow these steps:
 
 ### Contact Information
 If you have any questions, feedback, or suggestions, please feel free to contact us at:
-1. Brendah Namubali: [(brendahnamubali.com)]
-2. Hellen Teri Nagawa: [(hellenterinagawa@gmail.com)]
-3. Samuel Douglas Othieno: [(douglasothieno@gmail.com)] [(+256-785-095154)]
+1. Brendah Namubali: (brendahnamubali.com)
+2. Hellen Teri Nagawa: (hellenterinagawa@gmail.com)
+3. Samuel Douglas Othieno: (douglasothieno@gmail.com) (+256-785-095154)
 
