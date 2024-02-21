@@ -20,8 +20,8 @@ function App() {
        <HeroSection/>
        <CallToAction/>
        <FeaturesCards/>
-       <ServicesImg/>
        <Testimonies/>
+       <ServicesImg/>       
        <Teams/>
        <ContactUs/>
        <FaqWithBg/>

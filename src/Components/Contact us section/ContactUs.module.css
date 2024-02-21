@@ -1,5 +1,5 @@
 .wrapper {
-  background-color: aqua;
+  background-color: transparent;
   max-width: 95%;
   margin: auto;
   min-height: rem(400px);
@@ -17,9 +17,6 @@
 }
 
 .title {
-  font-family:
-    Greycliff CF,
-    var(--mantine-font-family);
   color: var(--mantine-color-blue-9);
   line-height: 1;
 }
